@@ -3,9 +3,9 @@
  
 
 ### Contact Info
-ana.butskevich@gmail.com
-www.linkedin.com/in/anna-butskevich-a1872a17b
-www.behance.net/anabutskevfe0f
+ [E-mail](ana.butskevich@gmail.com)  
+ [Linkedin](www.linkedin.com/in/anna-butskevich-a1872a17b)  
+ [Behance](www.behance.net/anabutskevfe0f)
 
 ### About
 I'm a beginner front-end developer.
