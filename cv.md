@@ -24,7 +24,12 @@ I'm hardworking, ambition, responsible, non-conflict, sociable person.
 - Illustrator
 
 ### Example code
-
+```
+let numbers = ['First', 'Second','Third','Fourth'];
+for (let i = 0; i < numbers.length; i++){
+    console.log(" " + numbers[i] + ".");
+}
+```
 
 ### Experience
 - Freelance
